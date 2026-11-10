@@ -1,0 +1,1 @@
+{"expo":{"name":"RemindME","slug":"remindme","scheme":"remindme","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"automatic","plugins":["expo-router"],"experiments":{"typedRoutes":true},"web":{"bundler":"metro","name":"RemindME"},"ios":{"supportsTablet":true,"bundleIdentifier":"com.remindme.app"},"android":{"package":"com.remindme.app"}}}
