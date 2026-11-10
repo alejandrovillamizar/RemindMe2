@@ -1,0 +1,2 @@
+export const colors={background:"#10121B",surface:"#191D2A",surfaceElevated:"#22283A",primary:"#8B7CFF",primarySoft:"#29264B",text:"#F5F6FA",muted:"#A2A8BC",border:"#30364A",success:"#52C99A",warning:"#F2BD62",danger:"#F07883"} as const;
+export const spacing={xs:4,sm:8,md:16,lg:24,xl:32,xxl:48} as const;
